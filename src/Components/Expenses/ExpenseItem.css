@@ -1,0 +1,19 @@
+.container {
+  background: greenyellow;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px;
+}
+.title {
+  padding: 6px;
+}
+.amount {
+  margin: 0 12px;
+  font-size: 18px;
+  border: solid 1px black;
+  padding: 6px;
+  background: linear-gradient(blue, rgb(105, 53, 53));
+  color: white;
+  border-radius: 10px;
+}

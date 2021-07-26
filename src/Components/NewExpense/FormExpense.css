@@ -1,0 +1,17 @@
+.form {
+  padding: 10px;
+}
+.newtitle,
+.newamount,
+.newdate {
+  padding: 6px;
+}
+.btn {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+}
+.btn :hover {
+  background: green;
+  color: blue;
+}
